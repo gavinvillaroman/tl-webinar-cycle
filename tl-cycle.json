@@ -1,16 +1,11 @@
 {
-  "next": {
+  "next": null,
+  "last": {
     "date": "2026-09-22",
     "time": "19:00",
     "tz": "America/New_York",
     "display": "September 22 at 7:00 PM EST"
   },
-  "last": {
-    "date": "2026-09-15",
-    "time": "19:00",
-    "tz": "America/New_York",
-    "display": "September 15 at 7:00 PM EST"
-  },
-  "generated_at": "2026-09-16T20:50:55.930Z",
+  "generated_at": "2026-09-22T23:00:54.585Z",
   "source": "tl-feed-sync"
 }
